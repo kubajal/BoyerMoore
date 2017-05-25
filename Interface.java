@@ -1,4 +1,4 @@
-package aufgabe;
+package BM;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Aufgabe {
+public class Interface {
     
     private static ArrayList<String> patterns;
     private static String text;
